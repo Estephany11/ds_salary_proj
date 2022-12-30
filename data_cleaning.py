@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 25 18:05:22 2022
 
-@author: Eddy Moros
+@author: Estephany M
 """
 
 ################# DATA CLEANING ################
@@ -105,7 +105,7 @@ df_final.to_csv('salary_data_cleaned.csv', index=False)
 
 #pd read the csv file: 
     
-#pd.read_csv('salary_data_cleaned.csv'
+#pd.read_csv('salary_data_cleaned.csv')
 
 
 
